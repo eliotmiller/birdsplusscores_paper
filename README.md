@@ -20,7 +20,7 @@ This repository contains the data and code necessary to duplicate the **BirdsPlu
 1.  Clone the repository:
 
 ``` bash
-git clone https://github.com/YOURUSERNAME/YOURREPO.git
+git clone https://github.com/eliotmiller/BirdsPlusScores_paper.git
 ```
 
 2.  Open v1_4_speciesScores.R in R and run the script to generate the species scores.
